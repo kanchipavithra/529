@@ -6,3 +6,10 @@ public class task {
 	}
 
 }
+ class My
+{
+	public static void main(String args[])
+	{
+		System.out.println("this is devops project");
+	}
+}
